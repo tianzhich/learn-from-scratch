@@ -2,7 +2,7 @@
 
 ## What?
 
-*Learn from scratch* means [reinventing some wheels](https://en.wikipedia.org/wiki/Reinventing_the_wheel) or rebuilding some minimal functions using pure javascript. For example, a scrollToTop, lazy load and pullToRefresh, etc. I want to implement them without the help from some libraries or frameworks.
+*Learn from scratch* means [reinventing some wheels](https://en.wikipedia.org/wiki/Reinventing_the_wheel) or rebuilding some minimal functions using pure javascript or css. For example, a scrollToTop, lazy load and pullToRefresh, etc. I want to implement them without the help from some libraries or frameworks.
 
 ## Why?
 
